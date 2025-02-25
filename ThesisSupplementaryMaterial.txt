@@ -1,0 +1,20 @@
+List of supplementary figures
+Supplementary Figure 1. Boxplot showing the degree centrality between aggressive (in blue) and non-aggressive (in orange) samples on loci with significant difference. All AE and TCGA samples are included.	
+Supplementary Figure 2. Boxplot showing the betweenness centrality between aggressive (in blue) and non-aggressive (in orange) samples on loci with significant difference. All AE and TCGA samples are included.	
+Supplementary Figure 3. PCA of the RNA data from all sources, i.e. Barts, AE, EGA, GSTT, TCGA, UPenn) after batch correction for the source. AE is denoted here as Clinical Epigenetics (CE).	
+Supplementary Figure 4. PCA of the RNA data from all sources, i.e. Barts, AE, EGA, GSTT, TCGA, UPenn) after batch correction for the storage method, i.e. fresh frozen or FFPE. AE is denoted here as Clinical Epigenetics (CE).	
+
+List of supplementary tables
+Supplementary Table 1. Results of aggressive or metastatic samples classification using different classification techniques with cross-validation. The classifiers were built based on the identified differentially methylated loci per method (bumphunter, dmpFinder and parenclitic networks).	
+Supplementary Table 2. Table of the top 50 cg loci influencing the classification of samples as aggressive or non-aggressive using a logistic regression classifier based on the node degree of the parenclitic networks.	
+Supplementary Table 3. Logistic regression coefficients for each cg locus. The logistic regression was implemented based on the node degree of the parenclitic networks.	
+Supplementary Table 4. List of DEGs between metastatic and non-metastatic SDHx samples identified using DESeq2, edgeR and Wilcoxon.	
+Supplementary Table 5. List of DEGs between non-metastatic and metastatic after remission SDHx samples identified using DESeq2, edgeR and Wilcoxon.	
+Supplementary Table 6. List of DEGs between non-metastatic and metastatic at surgery or after remission SDHx samples identified using DESeq2, edgeR and Wilcoxon.	
+Supplementary Table 7. List of DEGs between non-metastatic and metastatic at surgery SDHx samples identified using DESeq2, edgeR and Wilcoxon.	
+Supplementary Table 8. List of DEGs between all metastatic and non-metastatic samples identified using DESeq2, edgeR and Wilcoxon.	
+
+List of supplementary files
+Supplementary File 1. Genome browser view of the proposed cg candidate loci.	
+Supplementary File 2. Single cell sample 139 quality report.	
+Supplementary File 3. Single cell sample 145 quality report. 	
