@@ -3,6 +3,11 @@ Supplementary Figure 1. Boxplot showing the degree centrality between aggressive
 Supplementary Figure 2. Boxplot showing the betweenness centrality between aggressive (in blue) and non-aggressive (in orange) samples on loci with significant difference. All AE and TCGA samples are included.	
 Supplementary Figure 3. PCA of the RNA data from all sources, i.e. Barts, AE, EGA, GSTT, TCGA, UPenn) after batch correction for the source. AE is denoted here as Clinical Epigenetics (CE).	
 Supplementary Figure 4. PCA of the RNA data from all sources, i.e. Barts, AE, EGA, GSTT, TCGA, UPenn) after batch correction for the storage method, i.e. fresh frozen or FFPE. AE is denoted here as Clinical Epigenetics (CE).	
+Supplementary Figure 5. Scatterplot comparing the GSEA identified ontologies to those identified by GO based on the DEGs between non-metastatic and metastatic at surgery SDHx PPGLs. The x-axis shows the log10 transformed p-values from GO analysis and the y-axis shows the Normalised Enrichment Scores (NESs) from GSEA. Purple coloured dots represent ontologies identified by both methods, whereas red dots represent ontologies identified only by GSEA. 
+Supplementary Figure 6. Scatterplot comparing the GSEA identified ontologies to those identified by GO based on the DEGs between non-metastatic and metastatic after remission SDHx PPGLs. The x-axis shows the log10 transformed p-values from GO analysis and the y-axis shows the Normalised Enrichment Scores (NESs) from GSEA. Purple coloured dots represent ontologies identified by both methods, whereas red dots represent ontologies identified only by GSEA. 
+Supplementary Figure 7. Scatterplot comparing the GSEA identified ontologies to those identified by GO based on the DEGs between non-metastatic and metastatic at surgery or after remission SDHx PPGLs. The x-axis shows the log10 transformed p-values from GO analysis and the y-axis shows the Normalised Enrichment Scores (NESs) from GSEA. Purple coloured dots represent ontologies identified by both methods, whereas red dots represent ontologies identified only by GSEA. 
+
+
 
 List of supplementary tables
 Supplementary Table 1. Results of aggressive or metastatic samples classification using different classification techniques with cross-validation. The classifiers were built based on the identified differentially methylated loci per method (bumphunter, dmpFinder and parenclitic networks).	
@@ -18,3 +23,4 @@ List of supplementary files
 Supplementary File 1. Genome browser view of the proposed cg candidate loci.	
 Supplementary File 2. Single cell sample 139 quality report.	
 Supplementary File 3. Single cell sample 145 quality report. 	
+
